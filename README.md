@@ -1,2 +1,2 @@
-# Data Science
+# GoMyCode Data Science
 Data Science codes
