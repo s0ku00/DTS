@@ -1,2 +1,2 @@
 # GoMyCode Data Science
-Data Science codes
+Data Science projects.
